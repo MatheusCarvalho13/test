@@ -1,2 +1,2 @@
 # test
- first repository
+ first repository. I am learning GitHub.
